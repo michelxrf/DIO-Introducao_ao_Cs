@@ -1,0 +1,16 @@
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+E:\Take Blip Bootcamp\Revisao\bin\Debug\net5.0\Revisao.exe
+E:\Take Blip Bootcamp\Revisao\bin\Debug\net5.0\Revisao.deps.json
+E:\Take Blip Bootcamp\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+E:\Take Blip Bootcamp\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+E:\Take Blip Bootcamp\Revisao\bin\Debug\net5.0\Revisao.dll
+E:\Take Blip Bootcamp\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+E:\Take Blip Bootcamp\Revisao\bin\Debug\net5.0\Revisao.pdb
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\Revisao.dll
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\Revisao.pdb
+E:\Take Blip Bootcamp\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
